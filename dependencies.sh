@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt-get install texlive-xetex -y
+sudo apt-get install -y nano git-lfs texlive-xetex
