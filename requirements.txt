@@ -1,0 +1,4 @@
+tikzplotlib==0.10.1
+pysurvival==0.1.2
+pandas_profiling==3.2.0
+lifelines
