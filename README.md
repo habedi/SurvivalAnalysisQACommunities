@@ -25,4 +25,4 @@ Please see https://stackoverflow.com/help/licensing for more information about l
 
 ### License for the code
 
-The code in this repository is licensed under [BSD 3-Clause License](LICENSE).
+The code in this repository is available under [BSD 3-Clause License](LICENSE).
